@@ -27,14 +27,14 @@ leonie:In den Büchern da drüben findest du hilfreiche Informationen.
 leonie:Nett, dass du fragst. Hier im Rathaus ist ja kaum was los.
 leonie:Bücher sind ja schön und gut, aber wenn du mich fragst, reicht das nicht aus.
 avatar:Wofür?
-leonie:Um hier ein bisschen Leben rein zu bringen, natürlich.
+leonie:Um hier ein bisschen Leben reinzubringen, natürlich.
 leonie:Wir bräuchten eine Spieleecke für die Kinder. Bällebad, Kletterturm. All das.
-leonie:Und eine Spielekonsole für die älteren.
+leonie:Und eine Spielekonsole für die Älteren.
 leonie:Und einen Bildschirm für Filmabende.
 leonie:So kriegt man die Leute her!
 [Choice]
 - [CommunityCenterCool] Klingt spannend!
-- [CommunityCenterMeh] Das hat doch ohnehin jeder zuhause.
+- [CommunityCenterMeh] Das hat doch ohnehin jeder Zuhause.
 
 [[Node]] CommunityCenterCool
 [actors] avatar leonie.flipped
@@ -59,7 +59,7 @@ leonie:Falls du Interesse hast, the more the merrier, du bist willkommen.
 [actors] avatar leonie.flipped
 [text]
 leonie:Kommt auf den Film an. Gestern war es eher emotional.
-leonie:Aber wir schauen alles mögliche. Ich sag dir Bescheid.
+leonie:Aber wir schauen alles Mögliche. Ich sag dir Bescheid.
 avatar:Danke!
 [set] #filmabend_einladung true
 
